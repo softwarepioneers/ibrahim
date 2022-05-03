@@ -638,6 +638,7 @@ hr{
     .overlay .title2 {
         width: 90%;
 	    font-size: 20px;
+	    padding-top: 100px;
     }
     .overlay .custom-btn{
         display: none;
