@@ -747,7 +747,7 @@ hr{
 
 
 @media screen and (mix-width: 992px) {
-  div.example {
+  FONT {
    font-size: 80px;
   }
 }
