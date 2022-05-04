@@ -744,3 +744,10 @@ hr{
     .ibrahim {text-align: justify;}
   
   }
+
+
+@media screen and (mix-width: 992px) {
+  div.example {
+   font-size: 80px;
+  }
+}
