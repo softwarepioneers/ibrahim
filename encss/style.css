@@ -746,8 +746,8 @@ hr{
   }
 
 
-@media screen and (mix-width: 992px) {
+@media (min-width: 992px) {
   FONT {
-   font-size: 80px;
+   font-size: 100px;
   }
 }
