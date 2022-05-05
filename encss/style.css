@@ -3,7 +3,10 @@
 body{ 
     font-family: "Cairo Regular", 'Cambria, Cochin, Georgia, Times, Times New Roman, serif';
 }
-
+. FONT {
+   font-size: 100px;
+	
+}
 .ibrahim1 {text-align: center;}
 .custom-navbar {
     background-color: white;
