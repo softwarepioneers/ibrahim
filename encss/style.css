@@ -747,8 +747,9 @@ hr{
   }
 
 
-@media (min-width: 992px) {
-  FONT {
-   font-size: 100px;
+@media screen and (min-width: 600px) {
+  FONTS {
+    font-size:40px;
   }
 }
+
