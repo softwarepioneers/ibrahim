@@ -742,14 +742,15 @@ hr{
 }
 
 @media only screen and (max-width: 1200px) {
-    .ibrahim {text-align: justify;}
+    .ibrahim {text-align: justify; font-size: 40px;}
   
   }
 
 
-@media screen and (min-width: 992px) {
-  .FONTS {
-    font-size:40px;
+
+
+@media screen and (max-width: 1200px) {
+   FONTS {
+    
   }
 }
-
